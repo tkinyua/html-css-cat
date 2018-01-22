@@ -1,0 +1,54 @@
+body{
+	margin: 5px;
+	padding: 5px;
+}
+.holder{
+	width: 90%;
+	margin: auto;
+}
+.main{
+	text-align: center;
+}
+.mains{
+	text-align: right;
+}
+.navigation a{
+	color: blue;
+	text-decoration: none;
+	font-size: 20px;
+	text-transform: uppercase; 
+}
+.navigation li{
+	list-style: none;
+	float: right;
+	display: inline;
+	padding: 0 10px 0 10px;
+}
+.navigation{
+	background: gray;
+}
+.image img{
+	margin: 0;
+	height: 500px;
+	width: 950px;
+}
+td{
+	border-left: 1px solid black;
+	border-top: 1px solid black;
+}
+#footer{
+	text-align: right;
+	background: gray;
+}
+#creative{
+	color: wheat;
+}
+#urban{
+	color: blue;
+}
+#worship{
+	color: green;
+}
+span .foot{
+	align-content: left;
+}
