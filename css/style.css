@@ -24,9 +24,6 @@ body{
 	display: inline;
 	padding: 0 10px 0 10px;
 }
-.navigation{
-	background: gray;
-}
 .image img{
 	margin: 0;
 	height: 500px;
@@ -38,7 +35,6 @@ td{
 }
 #footer{
 	text-align: right;
-	background: gray;
 }
 #creative{
 	color: wheat;
@@ -49,6 +45,6 @@ td{
 #worship{
 	color: green;
 }
-span .foot{
-	align-content: left;
+.brand{
+	column-count: 3;
 }
